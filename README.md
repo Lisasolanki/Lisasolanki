@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lisa Solanki</h1>
-<h3 align="center">
-  Aspiring Software Engineer with a strong foundation in Python, Java, and Data Structures & Algorithms.
-  Skilled in frontend development and achieved an 8.4 CGPA, reflecting both technical proficiency and academic dedication.
+<h3 align="right">
+Aspiring Software Engineer with a strong foundation in Python, Java, and Data Structures & Algorithms. Currently upskilling in Data Science and Data Analytics, with a passion for transforming data into real-world impact. Skilled in frontend development and consistently driven by curiosity and continuous improvement. Achieved an 8.4 CGPA, reflecting both technical proficiency and academic dedication.
+
+Outside of tech, I enjoy spending time in nature, which keeps me grounded and inspired, and I'm a fan of movies and series, especially those that spark creativity and storytelling.
 </h3>
 
 - 🌱 I’m currently learning **Backend Web Development and Databases**
